@@ -70,7 +70,6 @@ function Page() {
               <div className="mb-4">
                 <label className="block text-gray-700 font-semibold mb-2">Message</label>
                 <textarea
-                  rows="5"
                   className="w-full p-3 border rounded focus:outline-none focus:ring focus:ring-blue-200"
                   placeholder="Write your message"
                 ></textarea>
